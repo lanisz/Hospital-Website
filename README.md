@@ -1,1 +1,1 @@
-# html3 is a landind page of a responsive hospital website. 
+Site para um hospital, seguindo um tutorial, com objetivo de estudo.
